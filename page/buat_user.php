@@ -24,4 +24,5 @@ $usersCollection->insertOne([
 ]);
 
 echo "User berhasil dibuat! Silakan hapus file ini dan buka login.php";
+
 ?>
