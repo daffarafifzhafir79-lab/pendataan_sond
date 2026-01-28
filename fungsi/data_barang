@@ -1,0 +1,99 @@
+<?php
+
+return [
+  
+ 
+  'list barang inventaris' => [
+    ['nama' => 'Kabel Canon', 'qty' => 30],
+    ['nama' => 'Sound active out door', 'qty' => 9],
+    ['nama' => 'sound indoor', 'qty' => 2],
+    ['nama' => 'mic dinamik', 'qty' => 15],
+    ['nama' => 'mic wireless double', 'qty' => 4],
+    ['nama' => 'kaber power 24 v', 'qty' => 20],
+    ['nama' => 'mixer mg 32', 'qty' => 1],
+    ['nama' => 'mixer mg 16', 'qty' => 2],
+    ['nama' => 'mixer mgp 8', 'qty' => 2],
+    ['nama' => 'mixer soundcraft', 'qty' => 1],
+    ['nama' => 'power ampliefir TOA ZA-1120', 'qty' => 1],
+    ['nama' => 'power ampliefir TOA ZA-1240', 'qty' => 1],
+    ['nama' => 'power ampliefir TOA PA-D360', 'qty' => 1],
+    ['nama' => 'power ampliefir RDW 3000 watt', 'qty' => 2],
+    ['nama' => 'power ampliefir RDW 4500 watt', 'qty' => 1],
+    ['nama' => 'stander sound', 'qty' => 9],
+    ['nama' => 'stander mic pendek', 'qty' => 15],
+    ['nama' => 'stander mic', 'qty' => 10],
+    ['nama' => 'terminal', 'qty' => 20],
+    ['nama' => 'cable rool', 'qty' => 1],
+    ['nama' => 'Cable snake canon 200m', 'qty' => 1],
+    ['nama' => 'cable protector krisbow', 'qty' => 10],
+    ['nama' => 'sound high mid pasif', 'qty' => 6],
+    ['nama' => 'sound low subwoofer', 'qty' => 2],
+    ['nama' => 'cable speakon', 'qty' => 6],
+    ['nama' => 'safety belt', 'qty' => 2],
+    ['nama' => 'terpal', 'qty' => 4],
+    ['nama' => 'conektor pa to male', 'qty' => 10],
+    ['nama' => 'conector pa to female', 'qty' => 10],
+    ['nama' => 'conector male to female', 'qty' => 20],
+    ['nama' => 'TOA horn 50 watt', 'qty' => 4],
+    ['nama' => 'TOA horn 25 watt', 'qty' => 10],
+    ['nama' => 'cable signal 100m', 'qty' => 1],
+  ],
+
+  // Kategori-kategori acara
+  'acara_kecil' => [
+    ['nama' => 'cable canon', 'qty' => 1],
+    ['nama' => 'stander sound', 'qty' => 1],
+    ['nama' => 'sound outdoor', 'qty' => 1],
+    ['nama' => 'mic dinamik', 'qty' => 1],
+    ['nama' => 'stander mic', 'qty' => 1],
+    ['nama' => 'terminal', 'qty' => 1],
+    ['nama' => 'kabel power', 'qty' => 1],
+  ], // :contentReference[oaicite:1]{index=1}
+
+  'acara_sedang' => [
+    ['nama' => 'cable cannon', 'qty' => 8],
+    ['nama' => 'mixer Yamaha mg 16', 'qty' => 1],
+    ['nama' => 'stander sound', 'qty' => 2],
+    ['nama' => 'sound outdoor', 'qty' => 2],
+    ['nama' => 'mic dinamik', 'qty' => 2],
+    ['nama' => 'mic wireless', 'qty' => 1],
+    ['nama' => 'stander mic', 'qty' => 3],
+    ['nama' => 'terminal', 'qty' => 5],
+    ['nama' => 'cable roll', 'qty' => 1],
+    ['nama' => 'conector pa to male', 'qty' => 1],
+  ], // :contentReference[oaicite:2]{index=2}
+
+  'fullrank' => [
+    ['nama' => 'cable canon', 'qty' => 30],
+    ['nama' => 'mixer Yamaha mg32', 'qty' => 1],
+    ['nama' => 'stander sound', 'qty' => 2],
+    ['nama' => 'sound aoutor', 'qty' => 6],
+    ['nama' => 'sound pasif high-mid', 'qty' => 4],
+    ['nama' => 'subwoffer', 'qty' => 2],
+    ['nama' => 'power', 'qty' => 3],
+    ['nama' => 'micdinamik', 'qty' => 10],
+    ['nama' => 'mic wireless', 'qty' => 4],
+    ['nama' => 'stander mic', 'qty' => 5],
+    ['nama' => 'stander sound', 'qty' => 2],
+    ['nama' => 'terminal', 'qty' => 20],
+    ['nama' => 'cable roll', 'qty' => 1],
+    ['nama' => 'snake', 'qty' => 1],
+    ['nama' => 'pa to male', 'qty' => 10],
+    ['nama' => 'pa to female', 'qty' => 5],
+    ['nama' => 'speak on', 'qty' => 6],
+    ['nama' => 'stande mic pendek', 'qty' => 10],
+    ['nama' => 'belt', 'qty' => 2],
+    ['nama' => 'terpal', 'qty' => 2],
+  ], // :contentReference[oaicite:3]{index=3}
+
+  'indoor' => [
+    ['nama' => 'sound indoor', 'qty' => 2],
+    ['nama' => 'cable canon', 'qty' => 5],
+    ['nama' => 'mic dinamik', 'qty' => 1],
+    ['nama' => 'wireless', 'qty' => 1],
+    ['nama' => 'mg 12', 'qty' => 1],
+    ['nama' => 'stander mic', 'qty' => 1],
+  ], // :contentReference[oaicite:4]{index=4}
+];
+
+
